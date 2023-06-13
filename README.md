@@ -44,7 +44,7 @@ TCTracking is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'TCTracking'
+pod 'TCTracking', 'https://github.com/phutttc/TCTracking'
 ```
 
 ## Author
