@@ -1,5 +1,5 @@
 PODS:
-  - TCTracking (0.1.0)
+  - TCTracking (0.2.0)
 
 DEPENDENCIES:
   - TCTracking (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TCTracking: 10732c88021b3bea0583a581ce8715a4595219b9
+  TCTracking: 5eec22019dac474c694f6953d6070df99c834f7f
 
-PODFILE CHECKSUM: dcb896d950ba7aa06e097198cd7d8c471bddc061
+PODFILE CHECKSUM: f8d5fa2a8e7f4008a7ba6e38b049dcdfb16cb072
 
 COCOAPODS: 1.12.1

@@ -10,3 +10,7 @@
 #endif
 #endif
 
+
+FOUNDATION_EXPORT double TCTrackingVersionNumber;
+FOUNDATION_EXPORT const unsigned char TCTrackingVersionString[];
+
